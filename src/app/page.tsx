@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <Headers />
       <main className="h-screen w-full flex justify-center ">
-        <h1 className="text-3xl">This is the Home Page</h1>
+        <h1 className="text-3xl m-5">This is the Home Page</h1>
 
       </main>
     </>
