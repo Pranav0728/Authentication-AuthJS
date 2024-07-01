@@ -7,8 +7,12 @@ export default function Headers() {
             href:"/"
         },
         {
+            name:"Blog",
+            href:"/blog"
+        },
+        {
             name : "Sign in",
-            href:"/signin"
+            href:"/sign-in"
         }
     ]
   return (
